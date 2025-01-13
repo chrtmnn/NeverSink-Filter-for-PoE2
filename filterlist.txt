@@ -1,0 +1,7 @@
+NeverSink's filter 2 - 0-SOFT.filter
+NeverSink's filter 2 - 1-REGULAR.filter
+NeverSink's filter 2 - 2-SEMI-STRICT.filter
+NeverSink's filter 2 - 3-STRICT.filter
+NeverSink's filter 2 - 4-VERY-STRICT.filter
+NeverSink's filter 2 - 5-UBER-STRICT.filter
+NeverSink's filter 2 - 6-UBER-PLUS-STRICT.filter 
