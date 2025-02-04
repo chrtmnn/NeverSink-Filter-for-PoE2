@@ -3,10 +3,17 @@ template: |
   
   ## SHORT OVERVIEW:
   
-  - Removed emerald ring from chancing list
-  - Iron Rune tier is hidden on Uber Plus Strict instead of Uber Strict now
-  - Added a section to highlight ilvl81+ siphoning and attuned normal wands for crafting, since these are in high demand right now.
-  - Fixed multiple dozens of bugs and small improvements for FilterBlade
+  This patch adresses changes in PoE2 patch 0.1.1 and also adds a bit of finetuning here and there.
+  Changed "Overseer's Precursor Tablet" to "Overseer Precursor Tablet"
+  
+  ## CHANGES:
+  
+  - Changed
+  - Economy adjusted the tiering of some catalsts, currency, fragments etc
+  - Added the new "Overseer's Precursor Tablet"
+  - Reworked flasks and crafting sections slightlx to adjust for the new glassblower salvaging change
+  - Slightly retiered rare/crafting bases
+  - Slightly adjusted the tiering on some salvaging rules
   
   ------
 
